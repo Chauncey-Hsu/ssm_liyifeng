@@ -8,5 +8,5 @@
 out
 gen
 .gitignore
-.idea/*
-target/*
+/.idea/
+/target/
