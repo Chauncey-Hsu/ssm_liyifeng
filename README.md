@@ -14,3 +14,4 @@ http://blog.csdn.net/qq598535550/article/details/51703190
 通过与ssm2016 与springbootdemo的对比学习，才显得更加的深刻。
 这一个ssm的质量还是比较高的，git的star也是很多的。
 本demo的博文可以快速的了解， 另外他的测试做的也很到位，日志做的也不错。
+因为GitHub报出的spring低版本安全性问题，而提高spring框架版本，出现一些注解的失效。
