@@ -9,7 +9,7 @@
 	<url>http://github.com/liyifeng1994/ssm</url>
 	
 	<properties>
-		<spring.framework.version>4.3.18.RELEASE</spring.framework.version>
+		<spring.framework.version>5.2.22.RELEASE</spring.framework.version>
 	</properties>
 	
 	<dependencies>
